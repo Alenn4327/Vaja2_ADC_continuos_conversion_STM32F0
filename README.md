@@ -1,0 +1,1 @@
+# Vaja2_ADC_continuos_conversion_STM32F0
