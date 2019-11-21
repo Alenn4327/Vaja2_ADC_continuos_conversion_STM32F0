@@ -11,7 +11,7 @@
  <h3>V Clock Configuration spremenimo APB1 peripheral clock (MHz) na 16 MHz. Kaj opazite?</h3>
  <p>Druge vrednosti se spremenijo na enako vrednost kot je APB1</p>
  <h3>Clock Prescaler nastavimo z deliteljem 4. Kolikšna je sedaj preskalirana frekvenca takta</h3>
- <pFrekvenca sedaj znaša 4 MHz</p>
+ <p>Frekvenca sedaj znaša 4 MHz</p>
  <h3>Sampling time (čas vzorčenja tvz_ciklih) spremenite na 239.5 ciklov. Pravi čas vzorčenja se nato poveča še za 12 ciklov. Koliko znaša pravi čas vzorčenja tvz v mikro sekundah?</h3>
  <p>59,875ms.</p>
  <h3>Komentar</h3>
